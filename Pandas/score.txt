@@ -1,0 +1,7 @@
+number	name	school	language	gpa
+1	Park	GATech	Python	3.4
+2	Lee	GATech	Java	3.2
+3	Kim	GATech	C	3.8
+4	Rishi	GATech	Ruby	4.0
+5	Chen	GATech	TypeScript	3.5
+6	Meggie	GATech		3.1
