@@ -1,2 +1,2 @@
 # Pandas_Practice
-  - This repo is for practicing pandas 
+  This repo is for practicing pandas 
